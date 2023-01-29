@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author mrond
- *
- */
-module demo {
-}
