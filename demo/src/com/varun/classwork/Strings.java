@@ -93,7 +93,7 @@ public class Strings {
 		//System.out.println(isPalindrome(name));
 		//System.out.println(isPalindrome("racecar"));
 		//twoChar("abcdexyz", 'a');
-		noVowels(fullName);
+		//noVowels(fullName);
 		
 		
 	}
